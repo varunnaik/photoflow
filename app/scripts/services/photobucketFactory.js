@@ -26,7 +26,7 @@ angular.module('photoflowApp')
             // allowed, true otherwise.
 
             // Logic for Photobucket (Based on Photobucket API Rate limiting):
-        }
+        };
 
         // Public API here
         return {

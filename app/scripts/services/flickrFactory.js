@@ -26,7 +26,7 @@ angular.module('photoflowApp')
             // allowed, true otherwise.
 
             // Logic for Flickr (Based on Flickr API Rate limiting):
-        }
+        };
 
         // Public API here
         return {
